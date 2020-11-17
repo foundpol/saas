@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "yarn --cwd ./api dev & yarn --cwd ./app dev",
     "dev1": "yarn --cwd ./api dev & yarn --cwd ./app dev",
+    "dev1": "yarn --cwd ./api dev & yarn --cwd ./app dev",
     "dev2": "yarn --cwd ./api dev & yarn --cwd ./app dev",
     "test": "yarn --cwd ./api test && yarn --cwd ./app test",
     "postinstall": "yarn --cwd ./api install && yarn --cwd ./app install",
